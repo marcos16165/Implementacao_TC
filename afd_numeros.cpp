@@ -1,6 +1,6 @@
 /*
 	* Projeto: Reconhecedor de automatos
-	* Autor: Joyce Claine, Marcos Monteiro e William 
+	* Autor: Joyce Claine, Marcos Monteiro
 	* Dados: 04/10/2020
 	* Versao: 1.0
 	* Data da ultima modificao: 04/10/2020
